@@ -2,9 +2,9 @@
   "name": "lista-exerc-cio02",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "exercicios.js",
   "scripts": {
-    "start": "nodemon exercicio01.js",
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
